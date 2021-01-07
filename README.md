@@ -7,13 +7,13 @@ Microcontroller :
 Arduino Nano
 
 Sensors:
-SG-90 Servos
-MPU6050 IMU
-nrf24l01 pa + lna
+SG-90 Servos,
+ MPU6050 IMU,
+ nrf24l01 pa + lna
 
 Modules:
-CD74HC4067 16 Channel Multiplexer
-LM2596 Buck Converter (12V to 5V) 
+CD74HC4067 16 Channel Multiplexer,
+ LM2596 Buck Converter (12V to 5V) 
 
 Battery:
 11.1V 2200mah LiPo 
